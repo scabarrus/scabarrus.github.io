@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scabarrus</title>
-    <link>/</link>
-    <description>Recent content on scabarrus</description>
+    <title>Spring Boot on scabarrus</title>
+    <link>/spring-boot/</link>
+    <description>Recent content in Spring Boot on scabarrus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 09 Mar 2018 14:24:17 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/spring-boot/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
